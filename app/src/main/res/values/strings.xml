@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RevolutExchange</string>
+    <string name="loading_error">An error occurred. Please try again</string>
+</resources>
